@@ -1,0 +1,49 @@
+body {
+  margin-left: 20px;
+  margin-right: 0px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+body header {
+  font-size: 20px;
+  color: #e5eeee;
+  font-weight: bold;
+  background: #d42a4d;
+  display: flex;
+  justify-content: center;
+}
+body main {
+  margin: 0px;
+}
+body main img {
+  width: 100%;
+  margin-top: 10px;
+}
+body main p {
+  text-align: justify;
+  font-size: 18px;
+}
+body main div {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  margin: 0 auto;
+}
+body main div img {
+  width: 20%;
+  margin: 5px;
+  border: 4px dashed black;
+}
+body footer {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  background: #333333;
+  display: flex;
+  justify-content: center;
+  color: #e5eeee;
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=main.css.map */
