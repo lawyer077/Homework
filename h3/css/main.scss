@@ -1,0 +1,140 @@
+body {
+
+  @import url('https://fonts.googleapis.com/css?family=Raleway:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,900&display=swap&subset=latin-ext');
+
+  margin: 0;
+  padding: 0;
+
+  main {
+
+    background: #b07cf7;;
+    height: 100vh;
+    a {
+      color: white;
+      text-decoration: none;
+    }
+
+
+
+    .inner {
+      margin: 0 auto;
+      height: 100%;
+      width: 1200px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      color: white;
+      font-family: 'Raleway', sans-serif;
+      box-shadow: none;
+
+      h1 {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+        font-size: 85px;
+      }
+
+      p {
+        width: 100%;
+        margin: 10px auto 30px;
+        text-align: center;
+        font-size: 17px;
+        font-weight: lighter;
+      }
+
+
+      div {
+        width: 300px;
+        height: 220px;
+        padding: 30px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: end;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, .3),
+        -23px 0 20px -23px rgba(0, 0, 0, .8),
+        23px 0 20px -23px rgba(0, 0, 0, .8),
+        0 0 40px rgba(0, 0, 0, .1) inset;
+
+
+        .date {
+          width: 60px;
+          height: 60px;
+          background: none;
+          background-color: #2e2f31b3;
+          padding: 0;
+          border-radius: 10px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+
+          h1 {
+            text-transform: uppercase;
+            font-size: 20px;
+            font-weight: bold;
+            align-self: unset;
+            text-align: center;
+
+            .num {
+              font-size: 35px;
+              line-height: 0.5;
+            }
+          }
+        }
+
+        h1 {
+          font-size: 20px;
+          text-align: left;
+          width: 100%;
+          align-self: flex-end;
+        }
+
+        p {
+          font-size: 13px;
+          text-align: left;
+          margin: 0;
+          padding: 0;
+          width: 100%;
+          align-self: flex-end;
+        }
+
+      }
+
+      .first {
+        background-image: url("../images/gradient.png");
+      }
+
+      .first:hover {
+        transform: scale(1.1);
+      }
+
+      .second {
+        background-image: url("../images/gradient1.png");
+      }
+
+      .second:hover {
+        transform: scale(1.1);
+      }
+
+      .third {
+        background-image: url("../images/gradient2.png");
+      }
+
+      .third:hover {
+        transform: scale(1.1);
+      }
+
+      button {
+        margin: 20px auto;
+        width: 235px;
+        height: 55px;
+        background: #f72b3b;
+        color: white;
+        border: none;
+      }
+
+
+    }
+
+  }
+
+}

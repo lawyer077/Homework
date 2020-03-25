@@ -1,0 +1,132 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap&subset=latin-ext,vietnamese");
+* {
+  font-family: "Quicksand", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+body main {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #e5eeee;
+}
+body main section {
+  width: 420px;
+  height: 530px;
+  background: url(images/background.png) no-repeat center top;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 65px;
+  display: flex;
+  flex-wrap: wrap;
+}
+body main section div {
+  width: 100%;
+  margin: 0 0 25px 0;
+  display: flex;
+  justify-content: space-around;
+}
+body main section div a {
+  text-decoration: none;
+  text-underline: none;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border-bottom: 4px solid transparent;
+  padding-bottom: 2px;
+}
+body main section div a:hover {
+  border-bottom: 4px solid #e66a64;
+}
+body main section form {
+  display: flex;
+  flex-wrap: wrap;
+  height: 250px;
+  font-size: 15px;
+}
+body main section form label {
+  width: 100%;
+  color: white;
+  font-weight: bold;
+}
+body main section form input {
+  height: 40px;
+  font-size: 25px;
+  width: 100%;
+}
+body main section label {
+  display: block;
+  flex-wrap: wrap;
+}
+body main section #l-m {
+  width: 20px;
+  height: 20px;
+  background: #23ae92;
+}
+body main section label {
+  align-items: center;
+  display: flex;
+  color: white;
+}
+body main section input[type=checkbox] {
+  display: none;
+}
+body main section input[type=checkbox] + label:before {
+  background: white;
+  border: #23ae92 1px solid;
+  content: " ";
+  display: inline-block;
+  font: 16px/1em sans-serif;
+  height: 16px;
+  margin: 0 0.25em 0 0;
+  padding: 0;
+  vertical-align: top;
+  width: 16px;
+}
+body main section input[type=checkbox]:checked + label:before {
+  background: #23ae92;
+  color: #333;
+  content: "✓";
+  text-align: center;
+  font-weight: bolder;
+}
+body main section input[type=checkbox]:checked + label:after {
+  font-weight: bold;
+}
+body main section button {
+  width: 420px;
+  height: 40px;
+  background: #23ae92;
+  font-size: 18px;
+  border: none;
+  margin: 25px 0 25px 0;
+}
+body main section button a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+body main section div:last-of-type {
+  display: flex;
+  justify-content: space-between;
+}
+body main section div:last-of-type a {
+  width: 50%;
+  font-size: 15px;
+  font-weight: lighter;
+  transition: 0.5s;
+}
+body main section div:last-of-type a:hover {
+  border-bottom: 4px solid transparent;
+  color: #e66a64;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=main.css.map */

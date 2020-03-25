@@ -1,0 +1,57 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+header nav {
+  background: greenyellow;
+}
+header nav ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0;
+  height: 50px;
+}
+header nav ul li {
+  text-transform: uppercase;
+  list-style: none;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+main {
+  padding: 20px;
+  flex-wrap: wrap;
+}
+main .first {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main .first div img {
+  width: 150px;
+  border-radius: 50%;
+}
+main .first div p {
+  width: 50%;
+  height: 100px;
+}
+main .second {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+main .second div h1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: orangered;
+  text-align: center;
+}
+
+/*# sourceMappingURL=main.css.map */

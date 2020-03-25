@@ -1,0 +1,62 @@
+@import "//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body {
+  margin: 0px;
+  padding: 0px;
+
+  main {
+    font-family: "FontAwesome", sans-serif;
+    display: flex;
+    background: white;
+    font-size: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+    width: 80vw;
+    margin: 0 auto;
+
+
+    div {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 33.3%;
+      flex-wrap: wrap;
+      font-size: 15px;
+
+
+      a {
+        font-size: 30px;
+        padding: 10px;
+        border: 2px solid #1275b9;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 50px;
+        width: 50px;
+        text-align: center;
+        color: #1275b9;
+
+        &:hover {
+          color: red;
+        }
+      }
+
+      p {
+        width: 100%;
+        text-align: center;
+
+        &:first-of-type {
+          font-weight: bold;
+        }
+
+        &:last-of-type {
+          color: grey;
+        }
+      }
+    }
+
+  }
+}
