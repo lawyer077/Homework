@@ -1,0 +1,54 @@
+body {
+  margin: 0px;
+  border: 0px;
+}
+body main {
+  display: flex;
+  background: #fdde7e;
+  height: 100vh;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+body main div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background: #ffffff;
+  height: 450px;
+  width: 350px;
+  margin: 15px;
+  align-content: center;
+}
+body main div:hover {
+  transform: scale(1.1);
+}
+body main div h1 {
+  width: 100%;
+  text-align: center;
+  color: #02995b;
+  margin: 20px;
+  font-size: 70px;
+}
+body main div image {
+  width: 100%;
+  margin: 20px;
+}
+body main div h2 {
+  width: 100%;
+  text-align: center;
+  margin: 20px;
+  font-size: 56px;
+}
+body main div p {
+  width: 100%;
+  text-align: center;
+  border: 0;
+  padding: 0;
+  color: #4e4e4e;
+  margin: 0;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=main.css.map */
