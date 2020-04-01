@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ca4f060-0f0e-4a01-9193-5bb711a305d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/h10/fonts/MISO-BOL.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h10/fonts/miso-bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h10/fonts/miso-light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h10/fonts/miso.otf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h10/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h10/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/h10/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h10/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/h10/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h10/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/h10/main.scss" afterDir="false" />
@@ -23,34 +26,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/h10/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/h10/main.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="3" column="1" lean-forward="true" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/h10/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/h10/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,8 +68,8 @@
         <option value="$PROJECT_DIR$/h7/main.scss" />
         <option value="$PROJECT_DIR$/h8/index.html" />
         <option value="$PROJECT_DIR$/h8/main.scss" />
-        <option value="$PROJECT_DIR$/h10/main.scss" />
         <option value="$PROJECT_DIR$/h10/index.html" />
+        <option value="$PROJECT_DIR$/h10/main.scss" />
       </list>
     </option>
   </component>
@@ -90,6 +85,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,7 +113,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -161,7 +156,9 @@
       <workItem from="1585576530469" duration="1595000" />
       <workItem from="1585579990996" duration="6282000" />
       <workItem from="1585592486074" duration="2542000" />
-      <workItem from="1585595368689" duration="215000" />
+      <workItem from="1585595368689" duration="1046000" />
+      <workItem from="1585754319000" duration="561000" />
+      <workItem from="1585754927224" duration="1076000" />
     </task>
     <task id="LOCAL-00001" summary="home 1">
       <created>1585122208437</created>
@@ -226,17 +223,23 @@
       <option name="project" value="LOCAL" />
       <updated>1585594608804</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&#10;hggjhg">
+      <created>1585595668330</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585595668330</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28676000" />
+    <option name="totallyTimeSpent" value="31144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.102118" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10514372" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -272,7 +275,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="home 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="home 1" />
+    <MESSAGE value="&#10;hggjhg" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;hggjhg" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/h6/index.html">
@@ -374,17 +378,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h10/main.scss">
+    <entry file="file://$PROJECT_DIR$/h10/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" lean-forward="true" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="136">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h10/index.html">
+    <entry file="file://$PROJECT_DIR$/h10/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>

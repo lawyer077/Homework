@@ -1,17 +1,18 @@
 @font-face {
-  font-family: Lato;
-  src: url("fonts");
+  font-family: Miso;
+  src: url("fonts/miso-light.ttf");
 }
 body {
   margin: 0px;
   border: 0px;
+  font-family: Miso;
 }
 body main {
   display: flex;
   background: #fdde7e;
   height: 100vh;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
 }
 body main div {
@@ -22,7 +23,7 @@ body main div {
   background: #ffffff;
   height: 450px;
   width: 350px;
-  margin: 15px;
+  margin: 0px;
   align-content: center;
 }
 body main div:hover {
