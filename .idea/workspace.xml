@@ -19,34 +19,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/h11/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1027">
-                  <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/h11/main.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="340">
-                  <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -137,6 +110,11 @@
               <item name="homework" type="462c0819:PsiDirectoryNode" />
               <item name="h7" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="h11" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -188,7 +166,7 @@
       <workItem from="1585754319000" duration="561000" />
       <workItem from="1585754927224" duration="3736000" />
       <workItem from="1585758754587" duration="9716000" />
-      <workItem from="1585826371893" duration="3314000" />
+      <workItem from="1585826371893" duration="3561000" />
     </task>
     <task id="LOCAL-00001" summary="home 1">
       <created>1585122208437</created>
@@ -267,15 +245,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585756061269</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&#10;fdghfnfg">
+      <created>1585832560023</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585832560023</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46834000" />
+    <option name="totallyTimeSpent" value="47081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.108169444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -314,7 +298,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="home 1" />
     <MESSAGE value="&#10;hggjhg" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;hggjhg" />
+    <MESSAGE value="&#10;fdghfnfg" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;fdghfnfg" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/h7/main.css">
