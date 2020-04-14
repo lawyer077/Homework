@@ -1,0 +1,404 @@
+@font-face {
+  font-family: "Aleo Regular"; src: url("fonts/Aleo-Font/Desktop OTF");
+}
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+body {
+  margin: 0 auto;
+  padding: 0;
+}
+header {
+  margin: 0 auto;
+  min-height: 80px;
+  height: 4.52%;
+  background: #5474fd;
+  max-width: 1770px;
+  width: 100%;
+
+  .navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    margin: 0 300px 0 300px;
+  }
+
+  a {
+    text-decoration: none;
+    margin: 15px;
+    color: #ffffff;
+    font-size: 14px;
+
+    &#logo {
+      font-size: 24px;
+    }
+  }
+
+  #hamburger {
+    display: none;
+  }
+
+}
+section {
+  max-width: 1770px;
+  &#s1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 0 auto;
+    background: url("images/Image.png");
+
+    min-height: 740px;
+    max-width: 1770px;
+
+    .inner {
+      color: #ffffff;
+
+      h1 {
+        font-size: 48px;
+        font-family: 'Josefin Sans', sans-serif;
+        text-align: center;
+        margin: 10px;
+      }
+
+      p {
+        font-size: 22px;
+        font-family: 'Josefin Sans', sans-serif;
+        text-align: center;
+        margin: 10px 0 50px 0;
+      }
+
+      form {
+        position: relative;
+        width: 655px;
+        margin: 0 auto;
+      }
+
+      input, button {
+        border: none;
+        outline: none;
+      }
+
+      input {
+        width: 655px;
+        height: 65px;
+        background: #ffffff;
+        padding-left: 135px;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+
+      button {
+        height: 60px;
+        width: 150px;
+        position: absolute;
+        top: 2px;
+        right: 2px;
+        background: #5474fd;
+        cursor: pointer;
+        font-family: 'Aleo Regular', Aleo;
+      }
+
+      button:before {
+        content: "\f105";
+        font-family: 'Aleo Regular', Aleo;
+        color: #a7a7a7;
+        font-size: 14px;
+        font-weight: bold;
+      }
+
+      input::-webkit-input-placeholder {
+        color: #a7a7a7;
+        font-style: normal;
+        background: #ffffff;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+
+      input:-moz-placeholder {
+        color: #a7a7a7;
+        font-style: normal;
+        background: #ffffff;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+
+      input:-ms-input-placeholder {
+        color: #a7a7a7;
+        font-style: normal;
+        background: #ffffff;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+    }
+
+    div {
+      margin: 120px;
+      text-align: center;
+
+      a {
+        display: block;
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 14px;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+
+      i {
+        border: solid white;
+        border-width: 0 3px 3px 0;
+        display: inline-block;
+        padding: 3px;
+      }
+
+      .down {
+        transform: rotate(45deg);
+        -webkit-transform: rotate(45deg);
+      }
+    }
+  }
+
+  &#s2 {
+    max-width: 1770px;
+    height: 685px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("images/Rectangle 7.png");
+
+    .text {
+      width: 570px;
+      margin: 0;
+      color: #ffffff;
+
+      h1 {
+        text-align: left;
+        margin-top: 205px;
+        margin-bottom: 35px;
+        font-size: 36px;
+        font-family: "Aleo Regular";
+      }
+
+      p {
+        margin-top: 30px;
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 16px;
+      }
+
+      button {
+        border: none;
+        margin-top: 55px;
+        width: 230px;
+        height: 60px;
+        color: #ffffff;
+        font-family: "Aleo Regular";
+        font-size: 16px;
+        background: #1e5799;
+        background: linear-gradient(45deg, #1e5799 0%, #559cd6 27%, #2989d8 27%, #2989d8 27%, #2989d8 48%, #207cca 69%, #559cd6 72%, #7db9e8 100%);
+      }
+    }
+
+    .pic {
+      width: 540px;
+      margin: 0;
+
+      img:nth-of-type(1) {
+        max-width: 350px;
+        margin-left: 100px;
+        margin-top: 120px;
+      }
+
+      img:nth-of-type(2) {
+        max-width: 350px;
+        margin-left: 220px;
+        margin-top: 3px;
+      }
+    }
+  }
+
+  &#s3 {
+
+    margin: 0 auto;
+    background: #333333;
+    max-width: 1770px;
+    min-height: 340px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    div {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+
+      p {
+        font-size: 36px;
+        color: #ffffff;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+    }
+  }
+
+  &#s4 {
+    margin: 0 auto;
+    background: url("images/Rectangle 414.png");
+    max-width: 1770px;
+    min-height: 700px;
+    position: relative;
+
+    div {
+      position: absolute;
+      margin: 0 auto;
+      left: 330px;
+      top: 235px;
+      width: 540px;
+      height: 380px;
+      color: #ffffff;
+      background: #383734;
+
+      h2 {
+        margin-top: 50px;
+        margin-left: 30px;
+        font-size: 20px;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+
+      h1 {
+        margin-top: 35px;
+        margin-left: 30px;
+        font-size: 20px;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+
+      p {
+        margin-left: 30px;
+        margin-top: 30px;
+        font-size: 16px;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+
+      button {
+        margin-top: 45px;
+        margin-left: 30px;
+        font-size: 16px;
+        border: none;
+        width: 230px;
+        height: 60px;
+        font-family: "Aleo Regular";
+        color: #ffffff;
+        background: #1e5799;
+        background: linear-gradient(45deg, #1e5799 0%, #559cd6 27%, #2989d8 27%, #2989d8 27%, #2989d8 48%, #207cca 69%, #559cd6 72%, #7db9e8 100%);
+      }
+    }
+  }
+
+  &#s5 {
+    margin: 0 auto;
+    background: url("images/Rectangle 4141.png");
+    max-width: 1770px;
+    min-height: 700px;
+    position: relative;
+
+    div {
+      position: absolute;
+      margin: 0 auto;
+      left: 895px;
+      top: 230px;
+      width: 540px;
+      height: 380px;
+      color: #ffffff;
+      background: #383734;
+
+      h2 {
+        margin-top: 50px;
+        margin-left: 30px;
+        font-size: 20px;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+
+      h1 {
+        margin-top: 35px;
+        margin-left: 30px;
+        font-size: 20px;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+
+      p {
+        margin-left: 30px;
+        margin-top: 30px;
+        font-size: 16px;
+        font-family: 'Josefin Sans', sans-serif;
+      }
+
+      button {
+        margin-top: 45px;
+        margin-left: 30px;
+        font-size: 16px;
+        border: none;
+        width: 230px;
+        height: 60px;
+        font-family: "Aleo Regular";
+        color: #ffffff;
+        background: #1e5799;
+        background: linear-gradient(45deg, #1e5799 0%, #559cd6 27%, #2989d8 27%, #2989d8 27%, #2989d8 48%, #207cca 69%, #559cd6 72%, #7db9e8 100%);
+      }
+    }
+  }
+
+  &#s6 {
+    margin: 0 auto;
+    background: url("images/Rectangle 4142.png");
+    max-width: 1770px;
+    min-height: 731px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    h1 {
+      font-size: 36px;
+      color: #ffffff;
+      font-family: 'Josefin Sans', sans-serif;
+    }
+
+    img {
+      float: left;
+      margin-right: 60px;
+    }
+
+    div {
+      width: 1110px;
+      margin-top: 95px;
+      font-size: 20px;
+      color: #ffffff;
+      background: #333333;
+      font-family: 'Josefin Sans', sans-serif;
+    }
+  }
+
+}
+footer {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 1770px;
+  width: 100%;
+  min-height: 270px;
+  background: #1d1d1d;
+  color: #ffffff;
+  font-family: "Aleo Regular";
+  &:nth-last-child(1) {
+    text-align: center;
+    font-size: 14px;
+  }
+  &:nth-last-child(2) {
+    a {
+      color: #ffffff;
+    font-size: 25px;
+    content: "\f09a";
+    content: "\f099";
+    content: "\f0e1";
+    content: "\f16a";
+    content: "\f0d2";}
+  }
+}

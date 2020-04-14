@@ -2,7 +2,135 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ca4f060-0f0e-4a01-9193-5bb711a305d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/Aleo-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/Aleo-BoldItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/Aleo-Italic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/Aleo-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/Aleo-LightItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/Aleo-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/_DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold Italic/aleo-bolditalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold Italic/aleo-bolditalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold Italic/aleo-bolditalic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold Italic/aleo-bolditalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold Italic/aleo-bolditalic-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold/aleo-bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold/aleo-bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold/aleo-bold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold/aleo-bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold/aleo-bold-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light Italic/aleo-lightitalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light Italic/aleo-lightitalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light Italic/aleo-lightitalic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light Italic/aleo-lightitalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light Italic/aleo-lightitalic-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light/aleo-light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light/aleo-light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light/aleo-light-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light/aleo-light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light/aleo-light-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular Italic/aleo-italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular Italic/aleo-italic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular Italic/aleo-italic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular Italic/aleo-italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular Italic/aleo-italic-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/airplay.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/album.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-down-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/arc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/battery.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/bell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/bluetooth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/box2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/browser.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/cash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/chat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/coffee.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/comment.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/config.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/crop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/culture.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/cup.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/date.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/disk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/display2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/expand1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/eyedropper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/filter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/folder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/gift.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/gym.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/hourglass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/junk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/like2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/mail-open-file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/mail-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/male.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/more.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/network.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/news-paper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/paperclip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/pendrive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/photo-gallery.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/plug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/portfolio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/prev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/radio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/repeat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/shuffle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/smile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/stopwatch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/ticket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/tools.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/trash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/unlock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/usb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/user-female.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/voicemail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/world.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/Image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/Image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/Rectangle 414.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/Rectangle 4141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/Rectangle 4142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/Rectangle 41441.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/Rectangle 7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/images/Shape 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h13/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h13/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poplavok/images/Inteligentny obiekt wektorowy.png" beforeDir="false" afterPath="$PROJECT_DIR$/poplavok/images/Inteligentny obiekt wektorowy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poplavok/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/poplavok/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poplavok/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/poplavok/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,37 +147,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/poplavok/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3128">
-                  <caret line="138" column="47" selection-start-line="138" selection-start-column="47" selection-end-line="138" selection-end-column="47" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/poplavok/main.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="178">
-                  <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
-                  <folding>
-                    <element signature="e#3308#3314#0" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,6 +180,9 @@
         <option value="$PROJECT_DIR$/l1/main.scss" />
         <option value="$PROJECT_DIR$/poplavok/index.html" />
         <option value="$PROJECT_DIR$/poplavok/main.scss" />
+        <option value="$PROJECT_DIR$/h13/index.html" />
+        <option value="$PROJECT_DIR$/ex/index.html" />
+        <option value="$PROJECT_DIR$/ex/main.scss" />
       </list>
     </option>
   </component>
@@ -97,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,24 +208,44 @@
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="ex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
               <item name="h11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="poplavok" type="462c0819:PsiDirectoryNode" />
+              <item name="h12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="h13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-14-adaptive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-16-adaptive-menu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
               <item name="poplavok" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,7 +297,10 @@
       <workItem from="1585986159702" duration="621000" />
       <workItem from="1586271843060" duration="1196000" />
       <workItem from="1586443822902" duration="950000" />
-      <workItem from="1586595916054" duration="27330000" />
+      <workItem from="1586595916054" duration="27640000" />
+      <workItem from="1586754377330" duration="22772000" />
+      <workItem from="1586798302553" duration="11361000" />
+      <workItem from="1586840225697" duration="14604000" />
     </task>
     <task id="LOCAL-00001" summary="home 1">
       <created>1585122208437</created>
@@ -277,16 +400,23 @@
       <option name="project" value="LOCAL" />
       <updated>1586631643785</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="&#10;cgjhgj">
+      <created>1586631971703</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1586631971703</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81793000" />
+    <option name="totallyTimeSpent" value="130840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115733735" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120272316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -316,6 +446,37 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1172466" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -459,13 +620,6 @@
     <entry file="file://$PROJECT_DIR$/l1/main.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/h12/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="48" column="50" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/h11/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1513">
@@ -482,18 +636,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/poplavok/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3128">
+        <state relative-caret-position="2499">
           <caret line="138" column="47" selection-start-line="138" selection-start-column="47" selection-end-line="138" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/poplavok/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+        <state relative-caret-position="357">
+          <caret line="62" column="18" lean-forward="true" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-16-adaptive-menu/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="108" column="27" selection-start-line="108" selection-start-column="27" selection-end-line="123" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-16-adaptive-menu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h13/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h13/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="60" column="143" selection-start-line="59" selection-start-column="4" selection-end-line="60" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h12/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="48" column="50" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex/images/.png" />
+    <entry file="file://$PROJECT_DIR$/ex/images/Rectangle 414.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-14-adaptive/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-996" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-14-adaptive/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-435" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-14-adaptive/grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1421" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-14-adaptive/grid.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5015">
+          <caret line="397" column="21" lean-forward="true" selection-start-line="397" selection-start-column="21" selection-end-line="397" selection-end-column="21" />
           <folding>
-            <element signature="e#3308#3314#0" />
+            <element signature="e#649#2691#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="151" column="26" selection-start-line="151" selection-start-column="26" selection-end-line="151" selection-end-column="26" />
         </state>
       </provider>
     </entry>

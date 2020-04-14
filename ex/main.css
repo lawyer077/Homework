@@ -1,0 +1,360 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
+@font-face {
+  font-family: "Aleo Regular";
+  src: url("fonts/Aleo-Font/Desktop OTF");
+}
+body {
+  margin: 0 auto;
+  padding: 0;
+}
+
+header {
+  margin: 0 auto;
+  min-height: 80px;
+  height: 4.52%;
+  background: #5474fd;
+  max-width: 1770px;
+  width: 100%;
+}
+header .navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  margin: 0 300px 0 300px;
+}
+header a {
+  text-decoration: none;
+  margin: 15px;
+  color: #ffffff;
+  font-size: 14px;
+}
+header a#logo {
+  font-size: 24px;
+}
+header #hamburger {
+  display: none;
+}
+
+section {
+  max-width: 1770px;
+}
+section#s1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 0 auto;
+  background: url("images/Image.png");
+  min-height: 740px;
+  max-width: 1770px;
+}
+section#s1 .inner {
+  color: #ffffff;
+}
+section#s1 .inner h1 {
+  font-size: 48px;
+  font-family: "Josefin Sans", sans-serif;
+  text-align: center;
+  margin: 10px;
+}
+section#s1 .inner p {
+  font-size: 22px;
+  font-family: "Josefin Sans", sans-serif;
+  text-align: center;
+  margin: 10px 0 50px 0;
+}
+section#s1 .inner form {
+  position: relative;
+  width: 655px;
+  margin: 0 auto;
+}
+section#s1 .inner input, section#s1 .inner button {
+  border: none;
+  outline: none;
+}
+section#s1 .inner input {
+  width: 655px;
+  height: 65px;
+  background: #ffffff;
+  padding-left: 135px;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s1 .inner button {
+  height: 60px;
+  width: 150px;
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  background: #5474fd;
+  cursor: pointer;
+  font-family: "Aleo Regular", Aleo;
+}
+section#s1 .inner button:before {
+  content: "";
+  font-family: "Aleo Regular", Aleo;
+  color: #a7a7a7;
+  font-size: 14px;
+  font-weight: bold;
+}
+section#s1 .inner input::-webkit-input-placeholder {
+  color: #a7a7a7;
+  font-style: normal;
+  background: #ffffff;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s1 .inner input:-moz-placeholder {
+  color: #a7a7a7;
+  font-style: normal;
+  background: #ffffff;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s1 .inner input:-ms-input-placeholder {
+  color: #a7a7a7;
+  font-style: normal;
+  background: #ffffff;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s1 div {
+  margin: 120px;
+  text-align: center;
+}
+section#s1 div a {
+  display: block;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s1 div i {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+section#s1 div .down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+section#s2 {
+  max-width: 1770px;
+  height: 685px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("images/Rectangle 7.png");
+}
+section#s2 .text {
+  width: 570px;
+  margin: 0;
+  color: #ffffff;
+}
+section#s2 .text h1 {
+  text-align: left;
+  margin-top: 205px;
+  margin-bottom: 35px;
+  font-size: 36px;
+  font-family: "Aleo Regular";
+}
+section#s2 .text p {
+  margin-top: 30px;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 16px;
+}
+section#s2 .text button {
+  border: none;
+  margin-top: 55px;
+  width: 230px;
+  height: 60px;
+  color: #ffffff;
+  font-family: "Aleo Regular";
+  font-size: 16px;
+  background: #1e5799;
+  background: linear-gradient(45deg, #1e5799 0%, #559cd6 27%, #2989d8 27%, #2989d8 27%, #2989d8 48%, #207cca 69%, #559cd6 72%, #7db9e8 100%);
+}
+section#s2 .pic {
+  width: 540px;
+  margin: 0;
+}
+section#s2 .pic img:nth-of-type(1) {
+  max-width: 350px;
+  margin-left: 100px;
+  margin-top: 120px;
+}
+section#s2 .pic img:nth-of-type(2) {
+  max-width: 350px;
+  margin-left: 220px;
+  margin-top: 3px;
+}
+section#s3 {
+  margin: 0 auto;
+  background: #333333;
+  max-width: 1770px;
+  min-height: 340px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+section#s3 div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+section#s3 div p {
+  font-size: 36px;
+  color: #ffffff;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s4 {
+  margin: 0 auto;
+  background: url("images/Rectangle 414.png");
+  max-width: 1770px;
+  min-height: 700px;
+  position: relative;
+}
+section#s4 div {
+  position: absolute;
+  margin: 0 auto;
+  left: 330px;
+  top: 235px;
+  width: 540px;
+  height: 380px;
+  color: #ffffff;
+  background: #383734;
+}
+section#s4 div h2 {
+  margin-top: 50px;
+  margin-left: 30px;
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s4 div h1 {
+  margin-top: 35px;
+  margin-left: 30px;
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s4 div p {
+  margin-left: 30px;
+  margin-top: 30px;
+  font-size: 16px;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s4 div button {
+  margin-top: 45px;
+  margin-left: 30px;
+  font-size: 16px;
+  border: none;
+  width: 230px;
+  height: 60px;
+  font-family: "Aleo Regular";
+  color: #ffffff;
+  background: #1e5799;
+  background: linear-gradient(45deg, #1e5799 0%, #559cd6 27%, #2989d8 27%, #2989d8 27%, #2989d8 48%, #207cca 69%, #559cd6 72%, #7db9e8 100%);
+}
+section#s5 {
+  margin: 0 auto;
+  background: url("images/Rectangle 4141.png");
+  max-width: 1770px;
+  min-height: 700px;
+  position: relative;
+}
+section#s5 div {
+  position: absolute;
+  margin: 0 auto;
+  left: 895px;
+  top: 230px;
+  width: 540px;
+  height: 380px;
+  color: #ffffff;
+  background: #383734;
+}
+section#s5 div h2 {
+  margin-top: 50px;
+  margin-left: 30px;
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s5 div h1 {
+  margin-top: 35px;
+  margin-left: 30px;
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s5 div p {
+  margin-left: 30px;
+  margin-top: 30px;
+  font-size: 16px;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s5 div button {
+  margin-top: 45px;
+  margin-left: 30px;
+  font-size: 16px;
+  border: none;
+  width: 230px;
+  height: 60px;
+  font-family: "Aleo Regular";
+  color: #ffffff;
+  background: #1e5799;
+  background: linear-gradient(45deg, #1e5799 0%, #559cd6 27%, #2989d8 27%, #2989d8 27%, #2989d8 48%, #207cca 69%, #559cd6 72%, #7db9e8 100%);
+}
+section#s6 {
+  margin: 0 auto;
+  background: url("images/Rectangle 4142.png");
+  max-width: 1770px;
+  min-height: 731px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+section#s6 h1 {
+  font-size: 36px;
+  color: #ffffff;
+  font-family: "Josefin Sans", sans-serif;
+}
+section#s6 img {
+  float: left;
+  margin-right: 60px;
+}
+section#s6 div {
+  width: 1110px;
+  margin-top: 95px;
+  font-size: 20px;
+  color: #ffffff;
+  background: #333333;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+footer {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 1770px;
+  width: 100%;
+  min-height: 270px;
+  background: #1d1d1d;
+  color: #ffffff;
+  font-family: "Aleo Regular";
+}
+footer:nth-last-child(1) {
+  text-align: center;
+  font-size: 14px;
+}
+footer:nth-last-child(2) a {
+  color: #ffffff;
+  font-size: 25px;
+  content: "";
+  content: "";
+  content: "";
+  content: "";
+  content: "";
+}
+
+/*# sourceMappingURL=main.css.map */
