@@ -1,3 +1,3 @@
-;let aqe = prompt ("Дата рождения?", "");
+;let aqe = prompt ("Год рождения?", "");
 let a = 2020 - aqe;
 alert("Ваш возраст " + a);
