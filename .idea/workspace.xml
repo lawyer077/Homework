@@ -2,135 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ca4f060-0f0e-4a01-9193-5bb711a305d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/Aleo-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/Aleo-BoldItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/Aleo-Italic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/Aleo-Light.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/Aleo-LightItalic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/Aleo-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Desktop OTF/_DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold Italic/aleo-bolditalic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold Italic/aleo-bolditalic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold Italic/aleo-bolditalic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold Italic/aleo-bolditalic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold Italic/aleo-bolditalic-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold/aleo-bold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold/aleo-bold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold/aleo-bold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold/aleo-bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Bold/aleo-bold-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light Italic/aleo-lightitalic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light Italic/aleo-lightitalic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light Italic/aleo-lightitalic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light Italic/aleo-lightitalic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light Italic/aleo-lightitalic-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light/aleo-light-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light/aleo-light-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light/aleo-light-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light/aleo-light-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Light/aleo-light-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular Italic/aleo-italic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular Italic/aleo-italic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular Italic/aleo-italic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular Italic/aleo-italic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular Italic/aleo-italic-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Aleo-Font/Webfont Kit/Regular/aleo-regular-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/airplay.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/album.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-down-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/arc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/battery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/bell.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/bluetooth.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/box2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/browser.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/cash.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/chat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/check.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/coffee.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/comment.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/config.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/crop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/culture.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/cup.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/date.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/disk.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/display2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/download.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/expand1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/eyedropper.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/filter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/folder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/gift.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/gym.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/home.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/hourglass.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/junk.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/like2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/mail-open-file.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/mail-open.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/mail.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/male.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/map.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/moon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/more.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/network.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/news-paper.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/note.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/paperclip.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/pendrive.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/photo-gallery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/pin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/play.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/plug.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/portfolio.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/prev.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/radio.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/repeat.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/share.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/shuffle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/smile.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/stopwatch.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/ticket.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/tools.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/trash.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/unlock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/upload.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/usb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/user-female.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/user.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/vector.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/voicemail.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/world.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/Image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/Image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/Rectangle 414.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/Rectangle 4141.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/Rectangle 4142.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/Rectangle 41441.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/Rectangle 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/images/Shape 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h13/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h13/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poplavok/images/Inteligentny obiekt wektorowy.png" beforeDir="false" afterPath="$PROJECT_DIR$/poplavok/images/Inteligentny obiekt wektorowy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poplavok/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/poplavok/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poplavok/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/poplavok/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,14 +19,52 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js1/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js1/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js1/script1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js1/script2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="SCSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -183,13 +93,19 @@
         <option value="$PROJECT_DIR$/h13/index.html" />
         <option value="$PROJECT_DIR$/ex/index.html" />
         <option value="$PROJECT_DIR$/ex/main.scss" />
+        <option value="$PROJECT_DIR$/EXAM/Examen/styles/main.scss" />
+        <option value="$PROJECT_DIR$/EXAM/Examen/index.html" />
+        <option value="$PROJECT_DIR$/js1/script.js" />
+        <option value="$PROJECT_DIR$/js1/main.html" />
+        <option value="$PROJECT_DIR$/js1/script2.js" />
+        <option value="$PROJECT_DIR$/js1/script1.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="675" />
-    <option name="y" value="29" />
-    <option name="width" value="699" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -213,17 +129,7 @@
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="h11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="h12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="h13" type="462c0819:PsiDirectoryNode" />
+              <item name="js1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
@@ -244,8 +150,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,10 +159,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/poplavok" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/EXAM/Examen" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nick\IdeaProjects\homework\EXAM\Examen" />
+      <recent name="C:\Users\Nick\IdeaProjects\homework\EXAM\Examen\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -300,7 +212,11 @@
       <workItem from="1586595916054" duration="27640000" />
       <workItem from="1586754377330" duration="22772000" />
       <workItem from="1586798302553" duration="11361000" />
-      <workItem from="1586840225697" duration="14604000" />
+      <workItem from="1586840225697" duration="14891000" />
+      <workItem from="1586877582852" duration="2996000" />
+      <workItem from="1586926670330" duration="2636000" />
+      <workItem from="1586932889095" duration="360000" />
+      <workItem from="1587025632208" duration="8025000" />
     </task>
     <task id="LOCAL-00001" summary="home 1">
       <created>1585122208437</created>
@@ -407,16 +323,33 @@
       <option name="project" value="LOCAL" />
       <updated>1586631971703</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="gldfkhlg">
+      <created>1586871583236</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1586871583236</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130840000" />
+    <option name="totallyTimeSpent" value="145144000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120272316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12632374" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -429,8 +362,8 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
@@ -486,46 +419,10 @@
     <MESSAGE value="&#10;hggjhg" />
     <MESSAGE value="&#10;fdghfnfg" />
     <MESSAGE value="&#10;cgjhgj" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;cgjhgj" />
+    <MESSAGE value="gldfkhlg" />
+    <option name="LAST_COMMIT_MESSAGE" value="gldfkhlg" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/h7/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h6/main.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h7/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="51" column="3" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="51" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h8/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="45" column="392" selection-start-line="45" selection-start-column="392" selection-end-line="45" selection-end-column="392" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h8/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h9/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h4/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/h10/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -719,6 +616,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="151" column="26" selection-start-line="151" selection-start-column="26" selection-end-line="151" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/iCloud_Alt.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/fas fa-arrow-right.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/fas fa-arrow-down.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/section _bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/section2 _bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/testimonial_bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/testimonial_img.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/arc.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/bg_top.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/choose_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/choose_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/far fa-check-circle icon red.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/fas.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EXAM/Examen/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="188" column="6" selection-start-line="188" selection-start-column="6" selection-end-line="188" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js1/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js1/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js1/script2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js1/script1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
