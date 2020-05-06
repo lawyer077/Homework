@@ -1,0 +1,135 @@
+
+body {
+  background-image: url("images/Layer 41.png");
+}
+
+
+.tab {
+  max-width: 600px;
+  margin-top: 150px;
+  margin-left: 230px;
+
+
+
+  .tabs {
+    max-width: 600px;
+    height: 120px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style-type: none;
+    background: #2b3040;
+    margin: 0;
+    .line {
+      height: 2px;
+      position: absolute;
+      bottom: 0;
+      margin: 10px 0 0 0;
+      background: white;
+    }
+    li {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin: 0 40px 0 0;
+      opacity: .4;
+      transition: all 0.4s ease;
+      &:hover {
+      opacity: .7;
+      }
+      &:active {
+        opacity: 1;
+      }
+      &:last-child {
+      margin-right: 0;
+      }
+
+      a {
+        margin-top: 10px;
+        text-decoration: none;
+        color: #e5eeee;
+      }
+    }
+  }
+  #s1 {
+    z-index: 1;
+  }
+  #s2, #s3 {
+    display: none;
+  }
+  .tab_content {
+    background-color: #212534;
+    max-width: 600px;
+    min-height: 430px;
+    .tabs_item {
+      display: flex;
+      flex-wrap: wrap;
+      .first {
+        max-width: 27%;
+        margin-top: 45px;
+        justify-content: center;
+        margin-left: 45px;
+        :nth-child(2) {
+          margin-left: 25px;
+        }
+      }
+      .second {
+        max-width: 60%;
+        justify-content: center;
+        margin-left: 30px;
+        h1 {
+          font-size: 25px;
+          color: #e5eeee;
+          margin: 70px 0 10px 0;
+        }
+        p {
+          font-size: 14px;
+          color: #e5eeee;
+          margin: 0 0 45px 0;
+        }
+
+        div {
+          display: inline-block;
+          max-width: 45%;
+          margin: 0;
+          padding: 0;
+          h3 {
+            color: #ffdd3f;
+            margin: 0;
+            font-size: 14px;
+          }
+          h2 {
+            font-size: 25px;
+            color: #e5eeee;
+            margin: 10px 0 0 0;
+          }
+        }
+        .image {
+          position	: relative;
+          width		: 100%;
+          margin-left: 35px;
+        }
+
+        h4 {
+          position	: absolute;
+          top		: 10px;
+          left		: 25px;
+          width		: 100%;
+          font-size: 14px;
+          color: white;
+        }
+        button {
+          background-color: #13e28d;
+          color: #e5eeee;
+          border: none;
+          max-width: 165px;
+          min-height: 60px;
+          margin-left: 60px;
+          padding: 20px 40px 20px 40px;
+        }
+      }
+    }
+    }
+
+  }
