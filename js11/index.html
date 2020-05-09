@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="main.css">
+    <title>Document</title>
+</head>
+<body>
+<div id="panel">
+    <b>Start:&nbsp;</b>
+    <input type="text" id="start" value="mumbai" placeholder="Start"/>
+    <b>End:&nbsp;</b>
+    <input type="text" id="end" value="pune" placeholder="End"/>
+    <input type="button" id="submit" value="Find Route" />
+</div>
+<div id="map-canvas">
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="main.js"  async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?callback=initMap" async defer></script>
+</body>
+</html>

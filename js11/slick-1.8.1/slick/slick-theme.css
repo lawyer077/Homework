@@ -60,29 +60,31 @@
 }
 
 .slick-prev {
-  left: 0;
+  left: 250px;
 }
 [dir=rtl] .slick-prev {
-  left: 0;
+  left: auto;
+  right: 250px;
 }
 .slick-prev:before {
-  content: "←";
+  content: url("image/Layer%2010%20copy.png");
 }
 [dir=rtl] .slick-prev:before {
-  content: "→";
+  content: url("image/Layer%2010%20copy.png");
 }
 
 .slick-next {
-  right: 0;
+  right: -25px;
 }
 [dir=rtl] .slick-next {
-  right: 0;
+  left: -25px;
+  right: auto;
 }
 .slick-next:before {
-  content: "→";
+  content: url("image/Layer%2010.png");
 }
 [dir=rtl] .slick-next:before {
-  content: "←";
+  content: url("image/Layer%2010.png");
 }
 
 /* Dots */

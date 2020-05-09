@@ -101,29 +101,29 @@ $slick-opacity-not-active: 0.25 !default;
 }
 
 .slick-prev {
-    left: 0;
+    left: 250px;
     [dir="rtl"] & {
-        left: 0;
-
+        left: auto;
+        right: 250px;
     }
     &:before {
-        content: $slick-prev-character;
+        content: url("image/Layer%2010%20copy.png");
         [dir="rtl"] & {
-            content: $slick-next-character;
+            content: url("image/Layer%2010%20copy.png");
         }
     }
 }
 
 .slick-next {
-    right: 0;
+    right: -25px;
     [dir="rtl"] & {
-
-        right: 0;
+        left: -25px;
+        right: auto;
     }
     &:before {
-        content: $slick-next-character;
+        content: url("image/Layer%2010.png");
         [dir="rtl"] & {
-            content: $slick-prev-character;
+            content: url("image/Layer%2010.png");
         }
     }
 }
