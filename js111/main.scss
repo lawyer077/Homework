@@ -27,31 +27,31 @@
 }
 .slick-list {
   overflow: hidden;
+  z-index: 1;
 }
 .slider__item {
   padding: 0px 15px;
 
   img {
     max-width: 100%;
+    height: auto;
   }
 }
 .slider {
   position: relative;
-  padding: 0px 30px; // поля между стрелкой и краем слайдера
+  padding: 0px 30px;
 }
-.slider .slick-arrow{
-  position: absolute;
-  top: 50%; // выравнивание по вертикали
-  margin: -15px 0 0 0; // корректировка  вертикального выравнивания
-  z-index: 2; // стрелки сверху картинок
-  font-size: 0; // убираем надпись на дефолтной стрелке
-  width: 30px; // ширина стрелки
-  height: 30px; // высота стрелки
-}
+
 .slider .slick-arrow.slick-prev {
-  left: 0; // левая стрелка остается с левой стороны слайдера
+  position: absolute;
+  z-index: 2;
+  left: 0;
+  margin-top: 120px;
 }
 
 .slider .slick-arrow.slick-next {
-  right: 0; // правая стрелка переместилась справа от слайдера
+  position: absolute;
+  z-index: 2;
+  right: 0;
+  margin-top: 120px;
 }

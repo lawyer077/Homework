@@ -1,38 +1,9 @@
-var directionDisplay;
-var directionsService = new google.maps.DirectionsService();
-var map;
-$(function(){
-    $('#submit').click(function(){
-        calcRoute();
+$(document).ready(function() {
+    $('.slick-slider').slick({
+        slidesToShow: 3,
+        centerMode: true,
+        centerPadding: '50px',
+        prevArrow: "<img src='image/Layer%2010%20copy.png' class='prev' alt='1'>",
+        nextArrow: "<img src='image/Layer%2010.png' class='next' alt='2'>",
     });
-    calcRoute();
-    initialize();
 });
-// initialize the Google Map API.
-function initialize() {
-    directionsDisplay = new google.maps.DirectionsRenderer();
-    var Mumbai = new google.maps.LatLng(19.075984, 72.877656);
-    var mapOptions = {
-        zoom:15,
-        mapTypeId: google.maps.MapTypeId.ROADMAP,
-        center: Mumbai
-    }
-    map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
-    directionsDisplay.setMap(map);
-}
-
-//Find the Start and End Destination on google Map
-function calcRoute() {
-    var start = document.getElementById('start').value;
-    var end = document.getElementById('end').value;
-    var request = {
-        origin:start,
-        destination:end,
-        travelMode: google.maps.DirectionsTravelMode.DRIVING
-    };
-    directionsService.route(request, function(response, status) {
-        if (status == google.maps.DirectionsStatus.OK) {
-            directionsDisplay.setDirections(response);
-        }
-    });
-}

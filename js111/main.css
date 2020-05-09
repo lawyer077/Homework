@@ -29,6 +29,7 @@
 
 .slick-list {
   overflow: hidden;
+  z-index: 1;
 }
 
 .slider__item {
@@ -36,6 +37,7 @@
 }
 .slider__item img {
   max-width: 100%;
+  height: auto;
 }
 
 .slider {
@@ -43,22 +45,18 @@
   padding: 0px 30px;
 }
 
-.slider .slick-arrow {
-  position: absolute;
-  top: 50%;
-  margin: -15px 0 0 0;
-  z-index: 2;
-  font-size: 0;
-  width: 30px;
-  height: 30px;
-}
-
 .slider .slick-arrow.slick-prev {
+  position: absolute;
+  z-index: 2;
   left: 0;
+  margin-top: 120px;
 }
 
 .slider .slick-arrow.slick-next {
+  position: absolute;
+  z-index: 2;
   right: 0;
+  margin-top: 120px;
 }
 
 /*# sourceMappingURL=main.css.map */
