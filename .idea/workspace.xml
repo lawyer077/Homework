@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5ca4f060-0f0e-4a01-9193-5bb711a305d1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js111/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/js111/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js111/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/js111/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js111/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/js111/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js111/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/js111/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js111/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="194">
@@ -33,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js111/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+            <state relative-caret-position="517">
+              <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -118,8 +114,8 @@
         <option value="$PROJECT_DIR$/js11/index.html" />
         <option value="$PROJECT_DIR$/js11/main.js" />
         <option value="$PROJECT_DIR$/js111/main.js" />
-        <option value="$PROJECT_DIR$/js111/main.scss" />
         <option value="$PROJECT_DIR$/js111/index.html" />
+        <option value="$PROJECT_DIR$/js111/main.scss" />
       </list>
     </option>
   </component>
@@ -234,7 +230,7 @@
       <workItem from="1588741652556" duration="13681000" />
       <workItem from="1588831855555" duration="6707000" />
       <workItem from="1589003595649" duration="17862000" />
-      <workItem from="1589028980508" duration="5961000" />
+      <workItem from="1589028980508" duration="6765000" />
     </task>
     <task id="LOCAL-00001" summary="home 1">
       <created>1585122208437</created>
@@ -432,11 +428,18 @@
       <option name="project" value="LOCAL" />
       <updated>1589033093374</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnnhjgkhgjhf">
+      <created>1589038880639</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1589038880679</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="230326000" />
+    <option name="totallyTimeSpent" value="231130000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -449,7 +452,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -534,7 +536,8 @@
     <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbc" />
     <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnn" />
     <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnnhjgk" />
-    <option name="LAST_COMMIT_MESSAGE" value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnnhjgk" />
+    <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnnhjgkhgjhf" />
+    <option name="LAST_COMMIT_MESSAGE" value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnnhjgkhgjhf" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/EXAM/Examen/fas fa-arrow-right.png">
@@ -780,6 +783,16 @@
         <state relative-caret-position="-204" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/poplavok/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js111/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js111/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -787,20 +800,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/poplavok/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/js111/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js111/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="517">
+          <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
         </state>
       </provider>
     </entry>
