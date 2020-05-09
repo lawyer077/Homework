@@ -2,46 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ca4f060-0f0e-4a01-9193-5bb711a305d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js111/image/Layer 10 copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/image/Layer 10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/image/Layer 9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/image/Rectangle 8 copy 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/image/Rectangle 8 copy 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/image/Rectangle 8 copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/image/Rectangle 8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/CONTRIBUTING.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/README.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick.jquery.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick-theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick-theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js111/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/js111/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js111/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/js111/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js111/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/js111/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js111/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/js111/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,20 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js111/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            <state relative-caret-position="194">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js111/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-197">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="364">
+              <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -152,9 +117,9 @@
         <option value="$PROJECT_DIR$/js11/slick-1.8.1/slick/slick-theme.scss" />
         <option value="$PROJECT_DIR$/js11/index.html" />
         <option value="$PROJECT_DIR$/js11/main.js" />
-        <option value="$PROJECT_DIR$/js111/index.html" />
-        <option value="$PROJECT_DIR$/js111/main.scss" />
         <option value="$PROJECT_DIR$/js111/main.js" />
+        <option value="$PROJECT_DIR$/js111/main.scss" />
+        <option value="$PROJECT_DIR$/js111/index.html" />
       </list>
     </option>
   </component>
@@ -182,12 +147,7 @@
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson-15-adaptive-img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson-16-adaptive-menu" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-js-12-maps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
@@ -274,7 +234,7 @@
       <workItem from="1588741652556" duration="13681000" />
       <workItem from="1588831855555" duration="6707000" />
       <workItem from="1589003595649" duration="17862000" />
-      <workItem from="1589028980508" duration="3931000" />
+      <workItem from="1589028980508" duration="5961000" />
     </task>
     <task id="LOCAL-00001" summary="home 1">
       <created>1585122208437</created>
@@ -465,11 +425,18 @@
       <option name="project" value="LOCAL" />
       <updated>1588761190417</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnnhjgk">
+      <created>1589033093374</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1589033093374</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228296000" />
+    <option name="totallyTimeSpent" value="230326000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -482,6 +449,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -565,19 +533,10 @@
     <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgj" />
     <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbc" />
     <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnn" />
-    <option name="LAST_COMMIT_MESSAGE" value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnn" />
+    <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnnhjgk" />
+    <option name="LAST_COMMIT_MESSAGE" value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnnhjgk" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="151" column="26" selection-start-line="151" selection-start-column="26" selection-end-line="151" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EXAM/Examen/iCloud_Alt.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/EXAM/Examen/fas fa-arrow-right.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -816,6 +775,11 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-js-12-maps/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js111/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -823,17 +787,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js111/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/poplavok/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/js111/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-197">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="364">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js111/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>

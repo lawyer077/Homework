@@ -48,12 +48,10 @@
   width: 30px; // ширина стрелки
   height: 30px; // высота стрелки
 }
-.slider .slick-arrow.slick-prev{
+.slider .slick-arrow.slick-prev {
   left: 0; // левая стрелка остается с левой стороны слайдера
-  background: url('image/Layer 10 copy.png') 0 0 / 100% no-repeat;
 }
 
-.slider .slick-arrow.slick-next{
+.slider .slick-arrow.slick-next {
   right: 0; // правая стрелка переместилась справа от слайдера
-  background: url('image/Layer 10.png') 0 0 / 100% no-repeat;
 }
