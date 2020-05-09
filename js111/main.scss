@@ -1,0 +1,59 @@
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 70px;
+  text-align: center;
+  font-size: 85px;
+  h2 {
+    margin: 20px;
+    font-size: 20px;
+    max-width: 230px;
+  }
+  h1 {
+    margin: 0;
+    font-size: 85px;
+  }
+}
+.slick-slider{
+  min-width: 0;
+  display: flex;
+  flex-direction: row;
+}
+.slick-track{
+  display: flex;
+ align-items: flex-end;
+}
+.slick-list {
+  overflow: hidden;
+}
+.slider__item {
+  padding: 0px 15px;
+
+  img {
+    max-width: 100%;
+  }
+}
+.slider {
+  position: relative;
+  padding: 0px 30px; // поля между стрелкой и краем слайдера
+}
+.slider .slick-arrow{
+  position: absolute;
+  top: 50%; // выравнивание по вертикали
+  margin: -15px 0 0 0; // корректировка  вертикального выравнивания
+  z-index: 2; // стрелки сверху картинок
+  font-size: 0; // убираем надпись на дефолтной стрелке
+  width: 30px; // ширина стрелки
+  height: 30px; // высота стрелки
+}
+.slider .slick-arrow.slick-prev{
+  left: 0; // левая стрелка остается с левой стороны слайдера
+  background: url('image/Layer 10 copy.png') 0 0 / 100% no-repeat;
+}
+
+.slider .slick-arrow.slick-next{
+  right: 0; // правая стрелка переместилась справа от слайдера
+  background: url('image/Layer 10.png') 0 0 / 100% no-repeat;
+}

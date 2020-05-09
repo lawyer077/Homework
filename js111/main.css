@@ -1,0 +1,66 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 70px;
+  text-align: center;
+  font-size: 85px;
+}
+.container h2 {
+  margin: 20px;
+  font-size: 20px;
+  max-width: 230px;
+}
+.container h1 {
+  margin: 0;
+  font-size: 85px;
+}
+
+.slick-slider {
+  min-width: 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.slick-track {
+  display: flex;
+  align-items: flex-end;
+}
+
+.slick-list {
+  overflow: hidden;
+}
+
+.slider__item {
+  padding: 0px 15px;
+}
+.slider__item img {
+  max-width: 100%;
+}
+
+.slider {
+  position: relative;
+  padding: 0px 30px;
+}
+
+.slider .slick-arrow {
+  position: absolute;
+  top: 50%;
+  margin: -15px 0 0 0;
+  z-index: 2;
+  font-size: 0;
+  width: 30px;
+  height: 30px;
+}
+
+.slider .slick-arrow.slick-prev {
+  left: 0;
+  background: url("image/Layer 10 copy.png") 0 0/100% no-repeat;
+}
+
+.slider .slick-arrow.slick-next {
+  right: 0;
+  background: url("image/Layer 10.png") 0 0/100% no-repeat;
+}
+
+/*# sourceMappingURL=main.css.map */

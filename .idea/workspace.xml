@@ -2,22 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ca4f060-0f0e-4a01-9193-5bb711a305d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js10_1/images/Ellipse 5 copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/images/Layer 33 copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/images/Layer 41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/images/basket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/images/card.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/images/favourite copy 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/images/favourite copy 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/images/favourite copy 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/images/favourite copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/images/favourite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/images/tooltip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js10_1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/image/Layer 10 copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/image/Layer 10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/image/Layer 9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/image/Rectangle 8 copy 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/image/Rectangle 8 copy 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/image/Rectangle 8 copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/image/Rectangle 8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/CONTRIBUTING.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/README.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick.jquery.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/config.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick-theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick-theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js111/slick-1.8.1/slick/slick.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,34 +58,35 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/js10_1/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="816">
-                  <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/js10_1/main.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="109">
-                  <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js111/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="41">
+              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js111/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-197">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js111/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -119,9 +143,18 @@
         <option value="$PROJECT_DIR$/js10/main.js" />
         <option value="$PROJECT_DIR$/js10/index.html" />
         <option value="$PROJECT_DIR$/js10/main.scss" />
-        <option value="$PROJECT_DIR$/js10_1/script.js" />
         <option value="$PROJECT_DIR$/js10_1/index.html" />
         <option value="$PROJECT_DIR$/js10_1/main.scss" />
+        <option value="$PROJECT_DIR$/js11/main.html" />
+        <option value="$PROJECT_DIR$/js10_1/script.js" />
+        <option value="$PROJECT_DIR$/js11/slick-1.8.1/slick/slick.scss" />
+        <option value="$PROJECT_DIR$/js11/main.scss" />
+        <option value="$PROJECT_DIR$/js11/slick-1.8.1/slick/slick-theme.scss" />
+        <option value="$PROJECT_DIR$/js11/index.html" />
+        <option value="$PROJECT_DIR$/js11/main.js" />
+        <option value="$PROJECT_DIR$/js111/index.html" />
+        <option value="$PROJECT_DIR$/js111/main.scss" />
+        <option value="$PROJECT_DIR$/js111/main.js" />
       </list>
     </option>
   </component>
@@ -137,6 +170,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,17 +182,7 @@
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="js10_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson-13-hw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson-14-adaptive" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-15-adaptive-img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
@@ -173,8 +198,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,13 +205,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js111" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nick\IdeaProjects\homework\js111" />
+      <recent name="C:\Users\Nick\IdeaProjects\homework\l1" />
       <recent name="C:\Users\Nick\IdeaProjects\homework\EXAM\Examen" />
       <recent name="C:\Users\Nick\IdeaProjects\homework\EXAM\Examen\images" />
     </key>
@@ -246,7 +271,10 @@
       <workItem from="1588657409644" duration="19957000" />
       <workItem from="1588690647526" duration="5544000" />
       <workItem from="1588707942636" duration="1154000" />
-      <workItem from="1588741652556" duration="9416000" />
+      <workItem from="1588741652556" duration="13681000" />
+      <workItem from="1588831855555" duration="6707000" />
+      <workItem from="1589003595649" duration="17862000" />
+      <workItem from="1589028980508" duration="3931000" />
     </task>
     <task id="LOCAL-00001" summary="home 1">
       <created>1585122208437</created>
@@ -430,11 +458,18 @@
       <option name="project" value="LOCAL" />
       <updated>1588598809987</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnn">
+      <created>1588761190417</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1588761190417</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195531000" />
+    <option name="totallyTimeSpent" value="228296000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -448,7 +483,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1732224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18003026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -479,7 +514,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16414523" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17776097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -529,73 +564,10 @@
     <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjg" />
     <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgj" />
     <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbc" />
-    <option name="LAST_COMMIT_MESSAGE" value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbc" />
+    <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnn" />
+    <option name="LAST_COMMIT_MESSAGE" value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnn" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson-16-adaptive-menu/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="108" column="27" selection-start-line="108" selection-start-column="27" selection-end-line="123" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-16-adaptive-menu/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h13/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h13/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="60" column="143" selection-start-line="59" selection-start-column="4" selection-end-line="60" selection-end-column="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h12/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="48" column="50" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex/images/.png" />
-    <entry file="file://$PROJECT_DIR$/ex/images/Rectangle 414.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-14-adaptive/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-996" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-14-adaptive/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-435" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson-14-adaptive/grid.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1421" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5015">
-          <caret line="397" column="21" lean-forward="true" selection-start-line="397" selection-start-column="21" selection-end-line="397" selection-end-column="21" />
-          <folding>
-            <element signature="e#649#2691#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -699,13 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/l1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/h4/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -769,34 +734,106 @@
     <entry file="file://$PROJECT_DIR$/js10/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js10/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="88" selection-start-line="54" selection-start-column="88" selection-end-line="54" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson-14-adaptive/grid.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js10_1/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="74" column="43" selection-start-line="74" selection-start-column="43" selection-end-line="74" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js10_1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js10_1/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js11/main.html" />
+    <entry file="file://$PROJECT_DIR$/js10/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="54" column="74" selection-start-line="54" selection-end-line="54" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js10_1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="56" column="88" lean-forward="true" selection-start-line="56" selection-end-line="56" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js10_1/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="81" column="3" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js11/slick-1.8.1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7626" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js11/slick-1.8.1/slick/slick.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js11/slick-1.8.1/slick/slick-theme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="107" column="5" lean-forward="true" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/l1/main.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/l1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js11/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js11/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js11/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="68" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js111/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js111/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js111/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
