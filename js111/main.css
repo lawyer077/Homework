@@ -45,18 +45,29 @@
   padding: 0px 30px;
 }
 
-.slider .slick-arrow.slick-prev {
-  position: absolute;
-  z-index: 2;
-  left: 0;
-  margin-top: 120px;
+.slider-box {
+  position: relative;
 }
 
-.slider .slick-arrow.slick-next {
+li {
+  margin-top: 20px;
+  position: relative;
+  float: left;
+  margin-right: 20px;
+}
+
+.prev,
+.next {
   position: absolute;
-  z-index: 2;
+  top: 30%;
+  height: 60px;
+  width: 60px;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.next {
   right: 0;
-  margin-top: 120px;
 }
 
 /*# sourceMappingURL=main.css.map */
