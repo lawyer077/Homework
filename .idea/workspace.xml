@@ -19,7 +19,15 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ex2/js/slick.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2941" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/h12/index.html" />
         <option value="$PROJECT_DIR$/h12/main.scss" />
         <option value="$PROJECT_DIR$/l1/index.html" />
         <option value="$PROJECT_DIR$/l1/main.scss" />
@@ -88,6 +95,7 @@
         <option value="$PROJECT_DIR$/Ex2/css/slick-theme.css" />
         <option value="$PROJECT_DIR$/Ex2/index.html" />
         <option value="$PROJECT_DIR$/Ex2/scss/styles.scss" />
+        <option value="$PROJECT_DIR$/Ex2/js/main.js" />
       </list>
     </option>
   </component>
@@ -116,6 +124,12 @@
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
               <item name="Ex2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="Ex2" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
@@ -259,7 +273,7 @@
       <workItem from="1589298979633" duration="1144000" />
       <workItem from="1589340831555" duration="11795000" />
       <workItem from="1589660082540" duration="779000" />
-      <workItem from="1589692060688" duration="920000" />
+      <workItem from="1589692060688" duration="1044000" />
     </task>
     <task id="LOCAL-00001" summary="home 1">
       <created>1585122208437</created>
@@ -506,11 +520,18 @@
       <option name="project" value="LOCAL" />
       <updated>1589692972710</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="ggj">
+      <created>1589693042380</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1589693042380</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="266948000" />
+    <option name="totallyTimeSpent" value="267072000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -523,6 +544,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20045386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -590,7 +612,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="home 1" />
     <MESSAGE value="&#10;hggjhg" />
     <MESSAGE value="&#10;fdghfnfg" />
     <MESSAGE value="&#10;cgjhgj" />
@@ -615,7 +636,8 @@
     <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnnhjgkhgjhfllllklklkgjhjnmbhgfhjg" />
     <MESSAGE value="ghgjbgdhgjcbnvgjdghfjhjmkjghjgkgjcvfcvbcnnnnhjgkhgjhfllllklklkgjhjnmbhgfhjgfgfghf" />
     <MESSAGE value="gg" />
-    <option name="LAST_COMMIT_MESSAGE" value="gg" />
+    <MESSAGE value="ggj" />
+    <option name="LAST_COMMIT_MESSAGE" value="ggj" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js1/script5.js">
@@ -866,14 +888,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ex2/js/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex2/js/slick.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6317" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExamJS/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -893,6 +907,18 @@
         <state relative-caret-position="319">
           <caret line="908" column="38" selection-start-line="908" selection-start-column="38" selection-end-line="908" selection-end-column="38" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex2/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex2/js/slick.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2941" />
       </provider>
     </entry>
   </component>
