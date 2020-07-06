@@ -13,14 +13,14 @@ $(document).ready(function(){
     $('.sliderNews').slick({
         infinite: true,
         slidesToShow: 3,
+    });
+});
         slidesToScroll: 1,
         autoPlay: true,
         autoplaySpeed: 100,
         dots: true,
         variableWidth: true,
         arrow: true
-    });
-});
 
 // Select all links with hashes
 $('a[href*="#"]')
